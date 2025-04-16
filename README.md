@@ -17,6 +17,7 @@ A thin wrapper for XCaliber Health\'s FHIR++ APIs
     ```
    
     Example PyCharm setup:
+
     ![PyCharm environment variable setup](/assets/images/pycharm_env_variables.png)
     
    

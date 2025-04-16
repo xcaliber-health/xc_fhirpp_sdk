@@ -5,6 +5,7 @@ A thin wrapper for XCaliber Health\'s FHIR++ APIs
 1. Clone this repository
 2. Create a project for your application **skip if you already have one*
    - (Optional) Create a virtual environment  `python3 -m venv .venv`
+   - (Optional) If you created a virtual environment activate it `source .venv/bin/activate`
 3. Install the XC FHIR++ SDK `pip install <your_path>` **Replace <your_path> with location XC FHIR++ SDK was cloned.*
 4. Now import the client in your project
     ```python

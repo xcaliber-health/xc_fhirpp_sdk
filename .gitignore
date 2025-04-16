@@ -1,3 +1,10 @@
+# XCaliber
+xc_test_data*
+
+# PyCharm
+.idea/
+.DS_store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

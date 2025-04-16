@@ -1,0 +1,4 @@
+fhirpy~=2.0.15
+PyYAML~=6.0.2
+inquirer~=3.4.0
+pygments~=2.19.1

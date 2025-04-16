@@ -7,7 +7,7 @@ A wrapper for XCaliber Health\'s FHIR++ APIs.
    - (Optional) Create a virtual environment  `python3 -m venv .venv`
    - (Optional) If you created a virtual environment activate it `source .venv/bin/activate`
 3. Install the XC FHIR++ SDK `pip install <path>` **Replace <path> with the location XC FHIR++ SDK was cloned.*
-4. Set client configurations in environment variables. Theses can be set in you IDE or the terminal.
+4. Set client configurations in environment variables. These can be set in you IDE or the terminal.
 
     Example terminal setup:
     ```shell

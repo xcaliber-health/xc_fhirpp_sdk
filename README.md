@@ -1,5 +1,5 @@
 ### Description
-A thin wrapper for XCaliber Health\'s FHIR++ APIs
+A wrapper for XCaliber Health\'s FHIR++ APIs.
 
 ### Installation
 1. Clone this repository

@@ -120,7 +120,9 @@ class FHIRPlusPlusCLI:
         colorful_json = highlight(formatted_yaml, lexers.YamlLexer(), formatters.TerminalFormatter())
         print(colorful_json)
 
+def cli():
+    _cli = FHIRPlusPlusCLI()
+    _cli.select_patients()
 
 if __name__ == '__main__':
-    cli = FHIRPlusPlusCLI()
-    cli.select_patients()
+    cli()
